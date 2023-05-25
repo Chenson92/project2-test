@@ -39,7 +39,7 @@ CodeSnippet.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: "codesnippet",
+    modelName: "code_snippet",
   }
 );
 module.exports = CodeSnippet;
